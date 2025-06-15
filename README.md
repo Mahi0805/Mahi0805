@@ -43,9 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahibhatt&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" alt="mahibhatt stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahibhatt&layout=compact&theme=radical&title_color=ff69b4" alt="top languages"/>
-</p>
 
 ---
 
