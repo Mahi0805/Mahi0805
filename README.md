@@ -29,7 +29,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" />
 </p>
 
 <h3 align="left">💻 IDEs & Tools:</h3>
