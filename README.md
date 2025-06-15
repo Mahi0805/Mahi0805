@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&&size=35&width=500&height=70&duraion=4000&lines=Hi+There!+👋;+I'm+Mahi+Bhatt!" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&width=500&height=70&duraion=4000&lines=Hi+There!+👋;+I'm+Mahi+Bhatt!" alt="Typing SVG" /></a>
 </h1>
 <!-- https://git.io/typing-svg -->
 <h3 align="center">A passionate Full Stack Developer from Indian</h3>
